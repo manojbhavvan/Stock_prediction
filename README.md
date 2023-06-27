@@ -10,7 +10,7 @@ BILSTM: 63.810619383806355
 
 ## Team Members
 1. Manoj Bhavvan B
-2. Kalaiyarasan M
+2. Kalaiyarasan M 
 3. Abdul Vajith M
 4. Arun Kumar M
 
